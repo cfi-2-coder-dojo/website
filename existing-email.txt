@@ -1,0 +1,21 @@
+Congrats parent!
+
+Your little coding ninja will be joining us for CoderDojo during the 1st session of the 2018/19 school year. We meet Thursday after school from 4 to 5:15. Welcome!
+
+Please take a minute to visit the cheddar up link (https://my.cheddarup.com/c/cfi-coder-dojo) or send $5 with your ninja. Your donation will go to the PTSA to help fund technical resources like headphones that help keep the lab full of quiet ninjas.
+
+If your student is new to programming fret not. We use a self paced video based curriculum provided by Google that will introduce your kiddo to the basics. They will learn to code in scratch, a code building environment created by MIT resembling digital legos.
+
+For the students who’ve been with us before, I look forward to seeing where their coding adventures have taken them since the last session. They may find a personal project to be more challenging than our standard curriculum. Or one of many other websites across the interwebs dedicated to encouraging coding such as Hour of Code may better keep their attention. Brainstorm with them about where they can launch from what they’ve learned so far. Maybe creating an account them on a site like Khan Academy is in order.
+
+Please remind your student the purpose of the club is to dive into coding. Help them be ready to spend an hour creating with code. There will be time for play but not until the last 15 minutes of club. Also remind your students to keep their creativity school appropriate. If students feel the need to include violence and/or disrespectful content I’ll be reaching out to you. If you have any questions regarding what is considered violent or disrespectful please feel free to ask.
+
+As always engage your kids. Ask them to show you their projects. Have them teach you a new scratch piece they’ve learned. Encourage them to help their peers. Learning together is the CFI way!
+
+Here are a couple links to help you understand what your children will be up to.
+curriculum - https://www.cs-first.com/en/home
+environment - https://scratch.mit.edu/
+Sometimes our students attention may waver. Here are some games to encourage coding and internet safety.
+https://codecombat.com/
+https://beinternetawesome.withgoogle.com/
+https://hourofcode.com/us/learn
